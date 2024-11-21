@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @caglarkucuk
-- 👀 I’m interested in data-driven nowcasting of severe weather
-- 🌱 I’m currently learning PyTorch in depth
-- 💞️ I’m looking to collaborate on generative weather prediction models that can make use of data coming from different streams   
-- 📫 How to reach me ... bo, you can find your way to reach me :)
+- 👀 I’m interested in data-driven weather prediction
+- 🌱 I’m currently learning GNNs in depth
 
 <!---
 caglarkucuk/caglarkucuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
